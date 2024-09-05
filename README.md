@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Scientist**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhijit-awari-6958ab298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEDztdDKmQl6JxkGJNp9HgQ%3D%3D](https://www.linkedin.com/in/abhijit-awari-6958ab298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEDztdDKmQl6JxkGJNp9HgQ%3D%3D)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhi-awari/](https://www.linkedin.com/in/abhi-awari/))
 
 - 📫 How to reach me **awariabhijit4@gmail.com**
 
