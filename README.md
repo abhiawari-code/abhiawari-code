@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D5616AQHOXhhZGPdYdA/profile-displaybackgroundimage-shrink_350_1400/0/1705242687546?e=1726099200&v=beta&t=gRrP9mpOY_VuLkotWMp-AK8Tla2oNSzhjlJexqHRxqQ)
 <h1 align="center">Hi 👋, I'm Abhijit Awari</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Data Scientist,Data Analyst from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
