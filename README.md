@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiawari-code&label=Profile%20views&color=0e75b6&style=flat" alt="abhiawari-code" /> </p>
 
-- 🌱 I’m currently learning **Data Scientist $ Data Analysis**
+- 🌱 I’m currently learning **Data Scientist & Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhi-awari/](https://www.linkedin.com/in/abhi-awari/))
 
